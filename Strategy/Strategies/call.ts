@@ -1,4 +1,4 @@
-import {CircleArea} from './circleArea'
+import { CircleArea } from './circleArea'
 import { Geometric } from './geometric'
 import { RectangleArea } from './rectangleArea';
 import { SquareArea } from './squareArea'
